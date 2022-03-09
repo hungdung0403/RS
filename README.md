@@ -6,3 +6,5 @@ In this report, we use an amazon video game review dataset. Implement methods to
 
 - Input: information of video games, user ratings.
 - Output: recommended video games for users.
+
+You can download the dataset from the following link: https://drive.google.com/drive/folders/1WjV64HYv20CYD5PsOyPkLx6xNSiy5KSm?usp=sharing
