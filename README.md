@@ -1,10 +1,5 @@
-Recommender systems aim to predict users' interests and recommend product items that quite likely are interesting for them. They are among the most powerful machine learning systems that online retailers implement in order to drive sales.
+In this report, we used a dataset collected from e-commerce site Shopee, using the Selenium tool. Implement user recommendation methods based on content filtering and collaborative filtering. The results are quite high.
 
-Data required for recommender systems stems from explicit user ratings after watching a movie or listening to a song, from implicit search engine queries and purchase histories, or from other knowledge about the users/items themselves.
-
-In this report, we used an amazon video game review dataset. Implement methods to recommend videos to users based on content and collaborative filtering. The results are quite high.
-
-- Input: information of video games, user ratings.
-- Output: recommended video games for users.
-
-You can download the dataset from the following link: https://drive.google.com/drive/folders/1WjV64HYv20CYD5PsOyPkLx6xNSiy5KSm?usp=sharing
+With the subject of food, we collect data based on
+28 keywords include functional food, health food, food coloring, junk food, dry, rice paper, milk, egg, dried fish, beef jerky, sausage, elderberry, dried
+squid, dried, seaweed, snack, cotton ball, chestnuts, cashew nuts, pork, dried rim, dried chicken, beans, bacon, pork ears, dried fish, vegetarian food. These are common keywords on e-commerce sites.
